@@ -1,0 +1,13 @@
+.container {
+    margin:  100px 500px 0 500px;
+}
+i  {
+    color: #385185;
+    margin: 20px 0 20px 70px;
+    font-size: 17px;
+}
+a {
+    color: #000;
+    text-decoration: none;
+    margin-left: 95px;
+}
