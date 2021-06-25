@@ -1,0 +1,12 @@
+html {
+    background-color: #fafafa;
+}
+.container {
+    margin: 40px 500px 0 500px;
+}
+button {
+    margin-bottom: 10px;
+}
+input {
+    border-color: #dbdbdb;
+}
